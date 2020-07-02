@@ -1,0 +1,9 @@
+import React from 'react'
+function Welcome(){
+  return(
+    <div>
+    <h1>WELCOME TO ONLINESHOPPING </h1>
+    </div>
+  )
+}
+export default Welcome

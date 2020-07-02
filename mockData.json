@@ -1,0 +1,20 @@
+[
+  {
+    "Brandname": "Milkfood",
+    "Producrname": "Milkfood Rich Desi Danedar Ghee",
+    "Quantity": "",
+    "Price": "408",
+    "MRP": "498",
+    // "Image URL":"",
+    "OfferText": "18% off"
+  },
+  {
+    "Brandname": "Grofers Mothers Choice",
+    "Producrname": "Grofers Mothers Choice Desi Ghee",
+    "Quantity": "",
+    "Price": "414",
+    "MRP": "450",
+    // "Image URL":"",
+    "OfferText": "8% offer"
+  }
+]
